@@ -10,3 +10,31 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+#darkButton {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#darkButton:hover {
+  text-decoration: underline;
+}
+
+.darkMode {
+  background-color: black;
+  color: white;
+}
+
+.lightMode {
+  background-color: white;
+  color: black;
+}
+
+#lightButton {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#lightButton:hover {
+  text-decoration: underline;
+}
