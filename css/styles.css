@@ -11,6 +11,11 @@
   text-decoration: underline;
 }
 
+.borders {
+  border: 1px solid green;
+  background: lightgreen;
+}
+
 #darkButton {
   cursor: pointer;
   color: #0088cc;
@@ -37,4 +42,8 @@
 
 #lightButton:hover {
   text-decoration: underline;
+}
+
+.hide {
+  display:none;
 }
